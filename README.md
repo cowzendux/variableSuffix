@@ -11,6 +11,6 @@ This is an SPSS Python macro that adds a specific suffix to a set of variables i
 **variableSuffix(suffix = "_T1", 
 include = "ALL", 
 exclude = ["StudentID", "ClassID])**
-* This code will add the suffix "_T1" to every variable in the data set except the variables "StudentID" and "ClassID"
+* This code will add the suffix _T1 to every variable in the data set except the variables "StudentID" and "ClassID"
 
 This and other SPSS Python Extension functions can be found at http://www.stat-help.com/python.html
