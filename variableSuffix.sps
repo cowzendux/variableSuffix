@@ -22,7 +22,7 @@
 * "StudentID" and "ClassID"
 .
 
-begin program python.
+BEGIN PROGRAM PYTHON3.
 import spss
 
 def variableSuffix(suffix, include = "ALL", exclude = None):
